@@ -84,7 +84,3 @@ CMD:zx(playerid) {
     CriarPaginacao(playerid, title, locgps, 19); 
     return 1;
 }
-CMD:skin(playerid){
-    SetPlayerSkin(playerid, 216);
-    return 1;
-}
