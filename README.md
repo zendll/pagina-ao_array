@@ -1,4 +1,4 @@
-
+/*
           
 stock CriarPaginacao(playerid, const titulo[], itens[][][], totalitem) {
 
@@ -11,8 +11,8 @@ Exemplo de sua array
 
 
 new locgps[2][2][30] = {
-{"Hospital", "Los Santos"},
-{"Aeroporto", "Las Venturas"}
+          {"Hospital", "Los Santos"},
+          {"Aeroporto", "Las Venturas"}
 };
                     
 
@@ -21,3 +21,4 @@ Nescessario
 
 https://github.com/Awsomedude/easyDialog
 https://github.com/pawn-lang/YSI-Includes
+*/
