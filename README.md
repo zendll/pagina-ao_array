@@ -1,21 +1,21 @@
-/*
+
           
-                    stock CriarPaginacao(playerid, const titulo[], itens[][][], totalitem) {
-                    
-                    CriarPaginacao(playerid, titulo de sua dialog, busque sua array, linhas dela);
+stock CriarPaginacao(playerid, const titulo[], itens[][][], totalitem) {
 
-                    Nescessario, easydialog
-                    Blibioteca YSI
+CriarPaginacao(playerid, titulo de sua dialog, busque sua array, linhas dela);
 
-                    Exemplo de sua array
+Nescessario, easydialog
+Blibioteca YSI
 
+Exemplo de sua array
+
+
+new locgps[2][2][30] = {
+{"Hospital", "Los Santos"},
+{"Aeroporto", "Las Venturas"}
+};
                     
-                    new locgps[2][2][30] = {
-                        {"Hospital", "Los Santos"},
-                        {"Aeroporto", "Las Venturas"}
-                    };
-                    
-*/
+
 
 Nescessario
 
